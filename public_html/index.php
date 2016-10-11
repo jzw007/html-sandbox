@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8"/>
 		<!--add CSS file-->
-		<link href="css/stylesheet.css" rel="" type=""/>
+		<link href="css/stylesheet.css" rel="stylesheet" type="text/css"/>
 	</head>
 	<body>
 		<!-- This is the Header-->
