@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 	<html lang="en">
 	<head>
-		<meta charset="UTF-8"
+		<meta charset="UTF-8"/>
+		<!--add CSS file-->
+		<link href="css/stylesheet.css" rel="" type=""/>
 	</head>
 	<body>
 		<!-- This is the Header-->
@@ -13,39 +15,30 @@
 
 			<section>
 				<p>
-					The Point: Your Life
+					SAYING STUPID THINGS AT FUNERALS
 
-					What’s the point of all that? The point is not this is what you do with your loose change. The point is: This is what you do with your life. You don’t want always be sitting high in your SUV dropping nickels into other people’s dreams. Satan wants that for you. But you don’t! You want to dream your own dream for the glory of Christ. Why am I on this planet? What has God put me here for?
-
-					What broke George Verwer’s heart back in the eighties, and breaks mine today, is not mainly that you have sinned sexually, but that this morning Satan took your 2 AM encounter in the hotel room — whether on TV or in bed — and told you: “See, you’re a loser. You may as well not even go to worship. No way are you going to make any serious commitment of your life to Jesus Christ! You may as well go back to school and get a good practical education, and then a good job so you can buy yourself a big wide screen and watch sex till you drop.”
-
-					I want to take that weapon out of his hand. Yes, I want you to have the joyful courage not to even do the channel surfing. But sooner or later, whether it’s that sin or another, you are going to fall. I have come to Atlanta to help you deal with the guilt of that failure so that Satan does not use it to produce another wasted life.
-
-					Two Headings
-
-					So here is where we are going: First, we will link up with where many of your have been in Colossians in your Community Groups. And second, we will go to the prophet Micah to see what victory looks like the morning after failure.
-
-					If it will help to have two headings, here they are:
-
-					1) Theology can conquer biology. Or another way to say it more specifically: Justification can conquer fornication.
-
-					2) Trust Christ to the hilt with gutsy guilt.
-
-					1. Theology Can Conquer Biology
-
-					The backdrop of all the teaching in Colossians 1-3 is Colossians 3:6, “On account of these the wrath of God is coming.” Hanging over the whole world is the holy, just, unimpeachable anger of God at sin and rebellion. His wrath is coming and the salvation spoken of in Colossians 1-3 is rescue from that. No one wants to meet the wrath of “the Lamb” when it comes (Revelation 6:16). So God, in his mercy makes a way out.
-
-					And what is distinctively Christian about the teachings of these chapters is that our rescue was most decisively accomplished for us by another and was done outside of us. In other words, Christ did something in history before we existed that obtained and guaranteed our rescue and the transformation of all who would come to trust in him. The distinctive and crucial thing about Christian salvation is that Christ accomplished it decisively for us and outside of us and without our help. And when we put our faith in him we do not add to the sufficiency of what he accomplished in covering our sins and achieving the righteousness that counts as ours.
-
-					For You and Outside of You
-
-					The clearest verses on this point are Colossians 2:13-14, “And you, who were dead in your trespasses and the uncircumcision of your flesh, God made alive together with him, having forgiven us all our trespasses, by canceling the record of debt that stood against us with its legal demands. This he set aside, nailing it to the cross.”
-
-
+					My good friend Elliot came down to Atlanta a couple of months ago and spent the whole day with me and Jana. As we were talking he said, "You know, people say really stupid things at funerals, don't they? Like, 'Well, they're in a better place now.' Or 'How are you doing?'" He's so right. People do say really dumb things in really hard places! Maybe it's out of the nervousness that fills the room where tragedy reigns. Maybe it's the classic savior-complex that we all have, wanting to save the day and make the pain go away?
+					The Bible certainly says that God is "Father to the fatherless” (Ps. 68:5). But here's some advice to Christians seeking to help, don't just jump to Psalm 68:5 so quickly. For many, this is a gunshot wound, not a scrape, and people need more than a pithy band-aid-theology that slaps a verse on deep-seated pain. God is a heavenly Father, not an earthly, biological father, and that painful truth becomes all the more real to those who are suffering. If someone's invited you into their pain, their struggle, first thank them that they'd be willing to let you into such a tender place in their life. It is no small thing to be speaking about God, someone's soul, and that relationship.
 				</p>
 				<img src="img/thumb_IMG_0778_1024.jpg" alt"bible verse">
+			<!--begin section 2-->
 			</section>
-			<section></section>
+			<h2>My favorite things about my second birth!!</h2>
+			<ul>
+				<li> Unlimited second chances</li>
+				<li>It is no longer my responsibility</li>
+				<li>With His perfect life and sacrafice, im free and perfect</li>
+				<li>It is finished</li>
+			</ul>
+			<section>
+				<!--begin section 3-->
+			</section>
+			<table></table>
+				<tr></tr>
+				<tr></tr>
+				<tr></tr>
+
+					<table>
 			<section></section>
 
 		</main>
