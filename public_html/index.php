@@ -25,7 +25,7 @@
 			</section>
 			<h2>My favorite things about my second birth!!</h2>
 			<ul>
-				<li> Unlimited second chances</li>
+				<li>Unlimited second chances</li>
 				<li>It is no longer my responsibility</li>
 				<li>With His perfect life and sacrafice, im free and perfect</li>
 				<li>It is finished</li>
