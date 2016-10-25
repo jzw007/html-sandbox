@@ -15,10 +15,9 @@
 
 			<section>
 				<p>
-					SAYING STUPID THINGS AT FUNERALS
+					Sometimes we seem to be saying that Jesus put on a costume for a little while and just played the part of being human. The issue is the transcendence of God as opposed to the immanence of God. Those who are theological liberals have a tendency to err on the side of immanence, ignoring the divine. Those of us who are orthodox and Bible-believing have a tendency to err on the side of transcendence, ignoring the humanity of God in the incarnation.
+					I once taught about the incarnation of Christ at a conference and, in order to make the incarnation clear, I said, “Jesus blew his nose just the way you do.” A very angry lady came up to me afterwards and said, “That’s blasphemous!” I asked her why and she said, “It just is!”
 
-					My good friend Elliot came down to Atlanta a couple of months ago and spent the whole day with me and Jana. As we were talking he said, "You know, people say really stupid things at funerals, don't they? Like, 'Well, they're in a better place now.' Or 'How are you doing?'" He's so right. People do say really dumb things in really hard places! Maybe it's out of the nervousness that fills the room where tragedy reigns. Maybe it's the classic savior-complex that we all have, wanting to save the day and make the pain go away?
-					The Bible certainly says that God is "Father to the fatherless” (Ps. 68:5). But here's some advice to Christians seeking to help, don't just jump to Psalm 68:5 so quickly. For many, this is a gunshot wound, not a scrape, and people need more than a pithy band-aid-theology that slaps a verse on deep-seated pain. God is a heavenly Father, not an earthly, biological father, and that painful truth becomes all the more real to those who are suffering. If someone's invited you into their pain, their struggle, first thank them that they'd be willing to let you into such a tender place in their life. It is no small thing to be speaking about God, someone's soul, and that relationship.
 				</p>
 				<img src="img/thumb_IMG_0778_1024.jpg" alt"bible verse">
 			<!--begin section 2-->
